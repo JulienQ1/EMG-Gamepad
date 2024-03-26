@@ -17,5 +17,8 @@ https://github.com/JulienQ1/EMG-Gamepad/assets/116632934/7a230126-4476-4849-8e13
 ![image](https://github.com/JulienQ1/EMG-Gamepad/assets/116632934/1ba4d883-8db8-44c2-bcbb-c6c4ada1f96c)
 ![image](https://github.com/JulienQ1/EMG-Gamepad/assets/116632934/6ad86e64-37a0-4065-bf4a-9c1e190720e7)
 ![image](https://github.com/JulienQ1/EMG-Gamepad/assets/116632934/f3d7cc0f-5ed6-40b6-a2d2-125711b59e9c)
+![image](https://github.com/JulienQ1/EMG-Gamepad/assets/116632934/ef359856-07b8-4911-9e99-26ff529dc602)
+![image](https://github.com/JulienQ1/EMG-Gamepad/assets/116632934/a15b4058-fbc8-4a73-861d-89d07092231d)
+
 
 
