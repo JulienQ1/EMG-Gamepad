@@ -1,7 +1,11 @@
 # EMG-Gamepad
 List of code game test that is playable with EMG SENSOR
 + Code of the gamepad-EMG that is possible to map
-![videoframe_712](https://github.com/JulienQ1/EMG-Gamepad/assets/116632934/1f55d162-460c-4ce9-adf1-b036706b8d9b)
+
+
+https://github.com/JulienQ1/EMG-Gamepad/assets/116632934/7a230126-4476-4849-8e13-cfb74b47d23d
+
+
 
 # Tutorial How to use Opensignals
 
